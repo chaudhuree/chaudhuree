@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm shahriar kabir sohan</h1>
 <h3 align="center">A passionate web developer from Bangladesh</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=chaudhuree&label=Profile%20views&color=0e75b6&style=flat" alt="chaudhuree" /> </p>
+
 
 - 👨‍💻 All of my projects are available at [www.chaudhuree.netilify.app](www.chaudhuree.netilify.app)
 
