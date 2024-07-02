@@ -1,3 +1,5 @@
+<img align="center" src="https://github.com/chaudhuree/chaudhuree/blob/main/banner.png"/>
+
 <h1 align="center">Hi 👋, I'm shahriar kabir sohan</h1>
 <h3 align="center">A passionate web developer from Bangladesh</h3>
 
