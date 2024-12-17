@@ -50,4 +50,3 @@
 
 <p align="center"><img width="60%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=chaudhuree&show_icons=true&locale=en&layout=compact" alt="chaudhuree" /></p>
 
-<p align="center"><a width="60%" align="center">[![GitHub Streak](https://streak-stats.demolab.com/?user=chaudhuree)](https://git.io/streak-stats)</a></p>
