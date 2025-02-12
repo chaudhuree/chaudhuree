@@ -5,7 +5,7 @@
 
 
 
-- 👨‍💻 All of my projects are available at [www.chaudhuree.netilify.app](www.chaudhuree.netilify.app)
+- 👨‍💻 All of my projects are available at [www.chaudhuree.netlify.app](www.chaudhuree.netlify.app)
 
 - 💬 Ask me about **react, exress js, mongodb, graphql, sql**
 
