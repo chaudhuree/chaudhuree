@@ -11,6 +11,8 @@
 
 - 📫 How to reach me **chaudhuree@gmail.com**
 
+- 📄 Know about my experiences [resume link](https://drive.google.com/file/d/1Kk8rcpEr1wKKf5k3c3bCkUsaTJXJGesf/view)
+
 <h3 align="left">Connect with me:</h3>
 <p align="center">
 <a href="https://www.facebook.com/chaudhuree00" target="blank"><img align="center" src="https://github.com/chaudhuree/chaudhuree/blob/main/facebook.svg" alt="sohanchaudhuree" height="30" width="40" /></a>
