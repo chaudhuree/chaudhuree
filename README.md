@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **react, exress js, mongodb, graphql, sql**
 
-- 📫 How to reach me **chaudhuree@gmail.com**
+- 📫 How to reach me **inbox@chaudhuree.qzz.io**
 
 - 📄 Know about my experiences [resume link](https://drive.google.com/file/d/1Kk8rcpEr1wKKf5k3c3bCkUsaTJXJGesf/view)
 
